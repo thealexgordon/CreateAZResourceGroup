@@ -17,8 +17,8 @@
     <li>
         <p>Select <b>Create</b>. This will open up the Create a Resource Group page</p>
     </li>
-    <li>
-        <p>On the Create a Resource Group page </p>
+        <li>
+            <p>On the Create a Resource Group page </p>
         <ul>
             <li>
                 <p>Select your Azure subscription</p>
@@ -30,16 +30,10 @@
                 <p>Select your region</p>
             </li>
             <li>
-                <p>Follow the prompts to review and create your Resource Group</p>
-                <br>
-                <p><img
-                        href="https://user-images.githubusercontent.com/124605867/217347831-8775b43d-512f-4f27-8415-38b5461f0aba.png
-">
-                </p>
-
+                <p>Follow the prompts to review and create your Resource Group <br></p>
             </li>
-
         </ul>
     </li>
 
 </ol>
+<img href="https://user-images.githubusercontent.com/124605867/217347831-8775b43d-512f-4f27-8415-38b5461f0aba.png"/>
