@@ -2,20 +2,20 @@
 
 <p>A Resource Group in Azure is a container for a collection of resources such as virtual machines, networks, database
     instances etc. Grouping resource makes it easier to manage, troubleshoot issues, and understand costs. This quick
-    guide will help you to create a resouce group</p>
+    guide will help you to create a resource group</p>
 
 <ol>
     <li>
-        <p>Sign in to the <a href="https://portal.azure.com" target="_blank" rel="noopener noreferrer">Azure portal</a>
+        <p>Sign in to the <a href="https://portal.azure.com" target="_blank" rel="noopener noreferrer">Azure portal</a>.
         </p>
     </li>
     <li>
         <p>In the search box at the top of the screen, enter and select <b>Resource Groups</b> <em>OR</em> under
-            <b>Services</b> select <b>Resource Groups</b> This opens up the Resource Groups page
+            <b>Services</b> select <b>Resource Groups</b>. This opens up the <i>Resource Groups<i/> page.
         </p>
     </li>
     <li>
-        <p>Select <b>Create</b>. This will open up the Create a Resource Group page</p>
+        <p>Select <b>Create</b>. This will open up the <i>Create a Resource Group</i> page.</p>
     </li>
         <li>
             <p>On the Create a Resource Group page </p>
@@ -30,10 +30,13 @@
                 <p>Select your region</p>
             </li>
             <li>
-                <p>Follow the prompts to review and create your Resource Group <br></p>
+                <p>Follow the prompts to review and create your Resource Group
+                <blockquote><img src="https://user-images.githubusercontent.com/124605867/217347831-8775b43d-512f-4f27-8415-38b5461f0aba.png"></blockquote>
+                </p>
+            <li>On completion you will find your new group in Resource Groups. You will also notice that there are some other system generated resource groups that are automatically created by Azure. This is normal.</li>
             </li>
         </ul>
     </li>
 
 </ol>
-<img href="https://user-images.githubusercontent.com/124605867/217347831-8775b43d-512f-4f27-8415-38b5461f0aba.png"/>
+
